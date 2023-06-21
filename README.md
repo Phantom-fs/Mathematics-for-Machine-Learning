@@ -4,7 +4,8 @@
 ### [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) ###
    -> **by Imperial College London**
 
--*The Programs/Assignments are inside the 'Programs' folder, of that particular week*
+### -*The Practice/Optional Quizzes are inside the 'Practice Quizzes' folder, of that particular week* ###
+### -*The Programs/Assignments are inside the 'Programs' folder, of that particular week* ###
 
 - - - - 
    
